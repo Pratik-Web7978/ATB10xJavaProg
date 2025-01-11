@@ -1,3 +1,5 @@
+package January;
+
 public class method1 {
     int a=24, b= 12 ;
     public static void main(String[] args){
